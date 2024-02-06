@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Daphne&#x27;s Website</title>
-    <link href="https://github.com/daphgg/daphneswebsite.git/feed.xml" rel="self" />
-    <link href="https://github.com/daphgg/daphneswebsite.git" />
+    <link href="https://daphgg.github.io/daphneswebsite/feed.xml" rel="self" />
+    <link href="https://daphgg.github.io/daphneswebsite" />
     <updated>2024-02-05T18:39:44-08:00</updated>
     <author>
         <name>Daphne G.</name>
     </author>
-    <id>https://github.com/daphgg/daphneswebsite.git</id>
+    <id>https://daphgg.github.io/daphneswebsite</id>
 
     <entry>
         <title>About Me</title>
         <author>
             <name>Daphne G.</name>
         </author>
-        <link href="https://github.com/daphgg/daphneswebsite.git/about-me.html"/>
-        <id>https://github.com/daphgg/daphneswebsite.git/about-me.html</id>
+        <link href="https://daphgg.github.io/daphneswebsite/about-me.html"/>
+        <id>https://daphgg.github.io/daphneswebsite/about-me.html</id>
 
         <updated>2024-02-05T18:11:52-08:00</updated>
             <summary>
@@ -27,7 +27,7 @@
             <![CDATA[
                 <h3><span style="color: #236fa1;">About Me</span></h3>
 <p>My Name is Daphne Guevara. I am a 3rd year Cognitive Science Major, minoring in Digital Humanities at UCLA. This website is for an assignment in my Digital Humanities 150 course.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://github.com/daphgg/daphneswebsite.git/media/posts/4/UCLAE_MEDIA_DAY-210-1.jpg" alt="" width="412" height="412" sizes="100vw" srcset="https://github.com/daphgg/daphneswebsite.git/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-xs.jpg 300w ,https://github.com/daphgg/daphneswebsite.git/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-sm.jpg 480w ,https://github.com/daphgg/daphneswebsite.git/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-md.jpg 768w ,https://github.com/daphgg/daphneswebsite.git/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-lg.jpg 1024w ,https://github.com/daphgg/daphneswebsite.git/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-xl.jpg 1360w ,https://github.com/daphgg/daphneswebsite.git/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-2xl.jpg 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://daphgg.github.io/daphneswebsite/media/posts/4/UCLAE_MEDIA_DAY-210-1.jpg" alt="" width="412" height="412" sizes="100vw" srcset="https://daphgg.github.io/daphneswebsite/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-xs.jpg 300w ,https://daphgg.github.io/daphneswebsite/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-sm.jpg 480w ,https://daphgg.github.io/daphneswebsite/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-md.jpg 768w ,https://daphgg.github.io/daphneswebsite/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-lg.jpg 1024w ,https://daphgg.github.io/daphneswebsite/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-xl.jpg 1360w ,https://daphgg.github.io/daphneswebsite/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-2xl.jpg 1600w"></figure>
 <p> </p>
 <p>Some of my hobbies include playing video games, drawing, hanging out with friends, etc... </p>
             ]]>
@@ -38,8 +38,8 @@
         <author>
             <name>Daphne G.</name>
         </author>
-        <link href="https://github.com/daphgg/daphneswebsite.git/future-projects.html"/>
-        <id>https://github.com/daphgg/daphneswebsite.git/future-projects.html</id>
+        <link href="https://daphgg.github.io/daphneswebsite/future-projects.html"/>
+        <id>https://daphgg.github.io/daphneswebsite/future-projects.html</id>
 
         <updated>2024-02-05T18:39:44-08:00</updated>
             <summary>
@@ -70,8 +70,8 @@
         <author>
             <name>Daphne G.</name>
         </author>
-        <link href="https://github.com/daphgg/daphneswebsite.git/front-page.html"/>
-        <id>https://github.com/daphgg/daphneswebsite.git/front-page.html</id>
+        <link href="https://daphgg.github.io/daphneswebsite/front-page.html"/>
+        <id>https://daphgg.github.io/daphneswebsite/front-page.html</id>
 
         <updated>2024-02-05T18:12:01-08:00</updated>
             <summary>
