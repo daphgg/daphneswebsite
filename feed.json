@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Daphne&#x27;s Website",
+    "description": "",
+    "home_page_url": "https://github.com/daphgg/daphneswebsite.git",
+    "feed_url": "https://github.com/daphgg/daphneswebsite.git/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Daphne G."
+    },
+    "items": [
+        {
+            "id": "https://github.com/daphgg/daphneswebsite.git/about-me.html",
+            "url": "https://github.com/daphgg/daphneswebsite.git/about-me.html",
+            "title": "About Me",
+            "summary": "About Me My Name is Daphne Guevara. I am a 3rd year Cognitive Science Major, minoring in Digital Humanities at UCLA. This website is for an assignment in my Digital Humanities 150 course. Some of my hobbies include playing video games, drawing, hanging out with&hellip;",
+            "content_html": "<h3><span style=\"color: #236fa1;\">About Me</span></h3>\n<p>My Name is Daphne Guevara. I am a 3rd year Cognitive Science Major, minoring in Digital Humanities at UCLA. This website is for an assignment in my Digital Humanities 150 course.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://github.com/daphgg/daphneswebsite.git/media/posts/4/UCLAE_MEDIA_DAY-210-1.jpg\" alt=\"\" width=\"412\" height=\"412\" sizes=\"100vw\" srcset=\"https://github.com/daphgg/daphneswebsite.git/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-xs.jpg 300w ,https://github.com/daphgg/daphneswebsite.git/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-sm.jpg 480w ,https://github.com/daphgg/daphneswebsite.git/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-md.jpg 768w ,https://github.com/daphgg/daphneswebsite.git/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-lg.jpg 1024w ,https://github.com/daphgg/daphneswebsite.git/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-xl.jpg 1360w ,https://github.com/daphgg/daphneswebsite.git/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-2xl.jpg 1600w\"></figure>\n<p> </p>\n<p>Some of my hobbies include playing video games, drawing, hanging out with friends, etc... </p>",
+            "author": {
+                "name": "Daphne G."
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-05T17:48:26-08:00",
+            "date_modified": "2024-02-05T18:11:52-08:00"
+        },
+        {
+            "id": "https://github.com/daphgg/daphneswebsite.git/future-projects.html",
+            "url": "https://github.com/daphgg/daphneswebsite.git/future-projects.html",
+            "title": "Future Projects",
+            "summary": "Final Project For my Final project in Digital Humanities 150: Digital Storytelling, I am planning on constructing a website similar to this. There will be a lot more content, and will obviously more complex than this. The main theme that I want to touch on&hellip;",
+            "content_html": "<h3><span style=\"color: #236fa1;\">Final Project</span></h3>\n<p>For my Final project in Digital Humanities 150: Digital Storytelling, I am planning on constructing a website similar to this. There will be a lot more content, and will obviously more complex than this. </p>\n<p>The main theme that I want to touch on when i begin contructing my final project is how Tiktok and other short form content has changed the world of marketing. </p>\n<p>This will touch on topics such as:</p>\n<ul>\n<li>Short form content and how it affects users</li>\n<li>User Generated Content and how it changes depending on the user</li>\n<li>New UMG v. Tiktok conflict and how it will affect new music</li>\n<li> + A lot more topics!</li>\n</ul>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Daphne G."
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-05T17:09:57-08:00",
+            "date_modified": "2024-02-05T18:39:44-08:00"
+        },
+        {
+            "id": "https://github.com/daphgg/daphneswebsite.git/front-page.html",
+            "url": "https://github.com/daphgg/daphneswebsite.git/front-page.html",
+            "title": "Introduction",
+            "summary": "Information This website was built as an assignment for my Digital Humanities 150 course. I have an about me page where you can learn more about me personally. I also included a page about my future projects, specifically containing what my ideas are for my&hellip;",
+            "content_html": "<h3><span style=\"color: #236fa1;\">Information</span></h3>\n<p>This website was built as an assignment for my Digital Humanities 150 course.</p>\n<p>I have an about me page where you can learn more about me personally. I also included a page about my future projects, specifically containing what my ideas are for my final project for this couse. </p>\n<p> </p>",
+            "author": {
+                "name": "Daphne G."
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-05T17:03:12-08:00",
+            "date_modified": "2024-02-05T18:12:01-08:00"
+        }
+    ]
+}

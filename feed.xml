@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Daphne&#x27;s Website</title>
+    <link href="https://github.com/daphgg/daphneswebsite.git/feed.xml" rel="self" />
+    <link href="https://github.com/daphgg/daphneswebsite.git" />
+    <updated>2024-02-05T18:39:44-08:00</updated>
+    <author>
+        <name>Daphne G.</name>
+    </author>
+    <id>https://github.com/daphgg/daphneswebsite.git</id>
+
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>Daphne G.</name>
+        </author>
+        <link href="https://github.com/daphgg/daphneswebsite.git/about-me.html"/>
+        <id>https://github.com/daphgg/daphneswebsite.git/about-me.html</id>
+
+        <updated>2024-02-05T18:11:52-08:00</updated>
+            <summary>
+                <![CDATA[
+                    About Me My Name is Daphne Guevara. I am a 3rd year Cognitive Science Major, minoring in Digital Humanities at UCLA. This website is for an assignment in my Digital Humanities 150 course. Some of my hobbies include playing video games, drawing, hanging out with&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3><span style="color: #236fa1;">About Me</span></h3>
+<p>My Name is Daphne Guevara. I am a 3rd year Cognitive Science Major, minoring in Digital Humanities at UCLA. This website is for an assignment in my Digital Humanities 150 course.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://github.com/daphgg/daphneswebsite.git/media/posts/4/UCLAE_MEDIA_DAY-210-1.jpg" alt="" width="412" height="412" sizes="100vw" srcset="https://github.com/daphgg/daphneswebsite.git/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-xs.jpg 300w ,https://github.com/daphgg/daphneswebsite.git/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-sm.jpg 480w ,https://github.com/daphgg/daphneswebsite.git/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-md.jpg 768w ,https://github.com/daphgg/daphneswebsite.git/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-lg.jpg 1024w ,https://github.com/daphgg/daphneswebsite.git/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-xl.jpg 1360w ,https://github.com/daphgg/daphneswebsite.git/media/posts/4/responsive/UCLAE_MEDIA_DAY-210-1-2xl.jpg 1600w"></figure>
+<p> </p>
+<p>Some of my hobbies include playing video games, drawing, hanging out with friends, etc... </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Future Projects</title>
+        <author>
+            <name>Daphne G.</name>
+        </author>
+        <link href="https://github.com/daphgg/daphneswebsite.git/future-projects.html"/>
+        <id>https://github.com/daphgg/daphneswebsite.git/future-projects.html</id>
+
+        <updated>2024-02-05T18:39:44-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Final Project For my Final project in Digital Humanities 150: Digital Storytelling, I am planning on constructing a website similar to this. There will be a lot more content, and will obviously more complex than this. The main theme that I want to touch on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3><span style="color: #236fa1;">Final Project</span></h3>
+<p>For my Final project in Digital Humanities 150: Digital Storytelling, I am planning on constructing a website similar to this. There will be a lot more content, and will obviously more complex than this. </p>
+<p>The main theme that I want to touch on when i begin contructing my final project is how Tiktok and other short form content has changed the world of marketing. </p>
+<p>This will touch on topics such as:</p>
+<ul>
+<li>Short form content and how it affects users</li>
+<li>User Generated Content and how it changes depending on the user</li>
+<li>New UMG v. Tiktok conflict and how it will affect new music</li>
+<li> + A lot more topics!</li>
+</ul>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Introduction</title>
+        <author>
+            <name>Daphne G.</name>
+        </author>
+        <link href="https://github.com/daphgg/daphneswebsite.git/front-page.html"/>
+        <id>https://github.com/daphgg/daphneswebsite.git/front-page.html</id>
+
+        <updated>2024-02-05T18:12:01-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Information This website was built as an assignment for my Digital Humanities 150 course. I have an about me page where you can learn more about me personally. I also included a page about my future projects, specifically containing what my ideas are for my&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3><span style="color: #236fa1;">Information</span></h3>
+<p>This website was built as an assignment for my Digital Humanities 150 course.</p>
+<p>I have an about me page where you can learn more about me personally. I also included a page about my future projects, specifically containing what my ideas are for my final project for this couse. </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
